@@ -1,0 +1,13 @@
+{
+    "directions": [
+        {"name": "North", "min_voltage":1.25 , "max_voltage": 1.6624},
+        {"name": "North-East", "min_voltage": 1.6625, "max_voltage": 2.0749},
+        {"name": "East", "min_voltage": 2.075, "max_voltage": 2.4874},
+        {"name": "South-East", "min_voltage": 2.4875, "max_voltage": 2.8999},
+        {"name": "South", "min_voltage": 2.9, "max_voltage": 3.3},
+        {"name": "South", "min_voltage": 0, "max_voltage": 0.0124},
+        {"name": "South-West", "min_voltage": 0.0125, "max_voltage": 0.4249},
+        {"name": "West", "min_voltage": 0.425, "max_voltage": 0.8374},
+        {"name": "North-West", "min_voltage": 0.8375, "max_voltage": 1.24}
+    ]
+}
